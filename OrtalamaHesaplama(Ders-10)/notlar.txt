@@ -1,0 +1,11 @@
+Veli Can Aydın,90,90,90
+Mert Bozdağ,66,87,90
+Uygar Sarp Gürnal,45,67,89
+Umut Eren Yavuz,100,67,89
+Ahmet Can Birdal,45,67,89
+Eren Arda Bıçak,45,67,89
+Eyüp Özoğul,45,90,89
+Mustafa Yahya Işık,45,67,89
+Ufuk Yağmurlu,45,67,89
+Serapnaz çetin,45,68,89
+Bora Balcıoğlu,45,67,89
